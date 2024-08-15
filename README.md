@@ -5,4 +5,4 @@ Language:Java .c++.
 <br>
 Author: Tausif Shaikh
 <br>
-Check check
+In thid DSA Repo we Storing Question of DSA in this Read.md file;
